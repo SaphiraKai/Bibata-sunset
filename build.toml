@@ -1,7 +1,7 @@
 [theme]
-name = 'Bibata Cursor'
-comment = 'Bibata is open source, compact, and material designed cursor set.'
-website = 'https://www.github.com/ful1e5/Bibata_Cursor'
+name = 'Bibata Cursor sunset'
+comment = "The 'sunset' theme for Bibata."
+website = 'https://github.com/SaphiraKai/Bibata-sunset'
 
 [config]
 bitmaps_dir = '' # This config will assigned with `ctgen -d <path>`

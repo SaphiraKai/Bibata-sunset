@@ -2,12 +2,7 @@
 # A script for preparing binaries for version release of Bibata Cursors, by Abdulkaiz Khatri
 
 declare -A names
-names["Bibata-Modern-Amber"]="Yellowish and rounded edge Bibata cursors."
-names["Bibata-Modern-Classic"]="Black and rounded edge Bibata cursors."
-names["Bibata-Modern-Ice"]="White and rounded edge Bibata cursors."
-names["Bibata-Original-Amber"]="Yellowish and sharp edge Bibata cursors."
-names["Bibata-Original-Classic"]="Black and sharp edge Bibata cursors."
-names["Bibata-Original-Ice"]="White and sharp edge Bibata cursors."
+names["Bibata-sunset"]="'sunset' color palette Bibata cursors."
 
 # Cleanup old builds
 rm -rf themes bin
